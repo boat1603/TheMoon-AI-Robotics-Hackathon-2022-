@@ -2,3 +2,7 @@
 **/.ipynb_checkpoints/
 datasets/
 line_notify.py
+weight/M1-classifier_model_checkpoint
+weight/M1-classifier_model_checkpoint_add_dropout
+submissions/S01-M1_DeepLearningClassification_output.csv
+03-MoCov3Training.ipynb
