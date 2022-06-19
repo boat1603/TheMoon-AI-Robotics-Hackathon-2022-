@@ -1,6 +1,7 @@
 **/__pycache__/
 **/.ipynb_checkpoints/
 datasets/
+team/
 line_notify.py
 weight/M1-classifier_model_checkpoint
 weight/M1-classifier_model_checkpoint_add_dropout
