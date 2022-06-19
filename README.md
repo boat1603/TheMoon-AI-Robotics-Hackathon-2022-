@@ -1,5 +1,5 @@
 ﻿# TheMoon-AI-Robotics-Hackathon-2022
-Super Team
+The Moon Team
 1. Pattareeya Piravechsakul
 2. Peerawat Rojratchadakorn
 3. Teepakorn Tosawadi 
