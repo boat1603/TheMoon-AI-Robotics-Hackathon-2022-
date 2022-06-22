@@ -6,7 +6,8 @@ The Moon Team
 
 If our code is not reproducible, please contact us via email.
 
-# Dataset preparation
+# Method 1 and 2
+## Dataset preparation
 Place dataset into folder "./datasets/Varuna Hackathon 2022"
 
 ## Data Exploration
@@ -18,7 +19,7 @@ Data Exploration is "00" code file we just explore features from given datasets
 
 # Method 3 (U-Net)
 We extend our work futrher using U-Net and scope down the experiment to 4 revisit interval.
-From given crop shapefile, we rasterize into GeoTiff format.
+From given crop shapefile, we rasterize into GeoTIFF format.
 The code was provided in 
     "00-Rasterize shapefile using OSGeo for U-Net.ipynb"
 
